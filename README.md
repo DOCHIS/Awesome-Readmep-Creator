@@ -1,1 +1,1 @@
-Pretty-Readmep-Creator
+Awesome-Readmep-Generator
